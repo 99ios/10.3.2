@@ -1,0 +1,13 @@
+//
+//  MYScrollView.h
+//  10.3.2 UIPageControl实际应用
+//
+//  Created by 李维佳 on 2017/4/4.
+//  Copyright © 2017年 Liz. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface MYScrollView : UIScrollView
+
+@end
